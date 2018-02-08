@@ -1,0 +1,3 @@
+private String username;
+private String userpwd;
+private Integer password;
